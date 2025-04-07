@@ -1,0 +1,105 @@
+/* RESET DEFAULT STYLES */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* GLOBAL STYLES ARE HERE */
+
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  background-color: #000;
+  color: #fff;
+  min-height: 100vh;
+}
+
+p {
+  font-size: 14px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(240, 6%, 93%);
+}
+
+/* HERO STYLES ARE HERE */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: hsl(0, 0%, 8%);
+  margin-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  border-radius: 5px;
+}
+
+.heroImg {
+  margin-top: 30px;
+  width: 100px;
+  height: auto;
+  border-radius: 50px;
+}
+
+.heroName {
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.heroLocation {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: hsl(75, 94%, 57%);
+}
+
+.heroDescription {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* LINKS STYLES ARE HERE */
+
+.links {
+  display: grid;
+  justify-content: center;
+}
+
+li {
+  list-style-type: none;
+  padding: 15px 120px;
+  border-radius: 5px;
+}
+
+li:hover,
+li:active {
+  cursor: pointer;
+  background-color: hsl(75, 94%, 57%);
+}
+
+.github,
+.frontend,
+.linkedIn,
+.twitter,
+.instagram {
+  margin-top: 15px;
+  background-color: hsl(0, 0%, 20%);
+}
+
+/* MEDIA QUERY FOR 375PX SCREEEN SIZE */
+
+@media (min-width: 375px) {
+  .container {
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
