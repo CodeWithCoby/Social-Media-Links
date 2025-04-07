@@ -8,6 +8,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [The challenge](<(https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)>)
   - [Screenshot](./assets/images/Frontend%20Mentor%20_%20Social%20links%20profile%20—%20Mozilla%20Firefox%2007_04_2025%2012_59_17%20am.png)
   - [Links](https://ccfolio.vercel.app)
+- [Author](https://ccfolio.vercel.app)
+- [Acknowledgments](https://youtube.com/KevinPowell)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -26,6 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/CodeWithCoby/Social-Media-Links)
+- Live Site URL: [Add live site URL here](https://social-media-links--two.vercel.app/)
 
 ## My process
 
@@ -57,15 +60,9 @@ const proudOfThisFunc = () => {
 };
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-## Author
-
-- Website - [Add your name here](https://ccfolio.vercel.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CodeWithCoby)
-- Twitter - [@yourusername](https://www.twitter.com/cobycode1)
+- Website - [Coby Code](https://ccfolio.vercel.app)
+- Frontend Mentor - [@CodeWithCoby](https://www.frontendmentor.io/profile/CodeWithCoby)
+- Twitter - [@cobycode1](https://www.twitter.com/cobycode1)
 
 ## Acknowledgments
 
